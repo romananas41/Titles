@@ -31,3 +31,13 @@ a:hover{
 ul{
     list-style: none;
 }
+.fl{
+    float: right;
+    border: 1px solid black;
+    padding: 5px;
+}
+.fl1{
+    float: left;
+    border: 1px solid black;
+    padding: 5px;
+}
